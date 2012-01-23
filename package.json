@@ -1,0 +1,20 @@
+{
+  "author": "Joshua Holbrook <josh.holbrook@gmail.com> (http://jesusabdullah.github.com)",
+  "name": "link2txtbot",
+  "description": "A node.js irc bot that uses libcaca and python to turn image links into colorful text representations. Neat!",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jesusabdullah/link2txtbot",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jesusabdullah/link2txtbot.git"
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {
+    "request": "2.9.3",
+    "irc": "0.3.3",
+    "utile": "0.0.10"
+  },
+  "devDependencies": {}
+}
